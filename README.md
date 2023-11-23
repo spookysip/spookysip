@@ -8,30 +8,29 @@
 
 ```javascript
 const technologies = {
-        frontEnd: [
-            "Next JS", "React", "Typescript", "SCSS"
-        ],
-        backEnd: [
-            "Node JS", "Express", "Typescript"
-        ],
-        API: [
-            "REST"
-        ],
-        Database: [
-            "MySQL", "Planetscale", "Prisma", "NoSQL",
-            "MongoDB", "Mongoose" 
-        ],
-        Infrastructure: [
-            "Amplify", "Lambda", "RDS", "DynamoDB",
-            "CloudFormation", "CloudPipeline",
-            "CloudFront", "CloudWatch", "CDK",
-            "SDK", "S3", "API Gateway", "Route 53",
-            "Secrets Manager", "IAM", "KMS", "Vercel"
-        ],
-        NPM: [
-            "Stripe", "Nodemailer", "Cumstomer IO",
-            "Howler", "Forest Admin"
-        ], 
-    }
-};
+  frontEnd: [
+    "Next JS", "React", "Typescript", "SCSS"
+  ],
+  backEnd: [
+    "Node JS", "Express", "Typescript"
+  ],
+  API: [
+    "REST"
+  ],
+  Database: [
+    "MySQL", "Planetscale", "Prisma", "NoSQL",
+    "MongoDB", "Mongoose" 
+  ],
+  Infrastructure: [
+    "Amplify", "Lambda", "RDS", "DynamoDB",
+    "CloudFormation", "CloudPipeline",
+    "CloudFront", "CloudWatch", "CDK",
+    "SDK", "S3", "API Gateway", "Route 53",
+    "Secrets Manager", "IAM", "KMS", "Vercel"
+  ],
+  NPM: [
+    "Stripe", "Nodemailer", "Cumstomer IO",
+    "Howler", "Forest Admin"
+  ], 
+}
 ```
