@@ -8,7 +8,7 @@
   <td valign="top" width="700">
     <br />
 
-  <p>♥️ ♥️ ♥️</p>
+  <p>🖤 🖤 🖤</p>
 <a href="https://taylorlaughl.in">portfolio</a>
 
   </td>
