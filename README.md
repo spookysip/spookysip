@@ -7,8 +7,7 @@
 ### resume.js
 
 ```javascript
-const resume = {
-    technologies: {
+const technologies = {
         frontEnd: [
             "Next JS", "React", "Typescript", "SCSS"
         ],
