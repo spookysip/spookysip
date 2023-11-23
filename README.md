@@ -8,7 +8,7 @@
   <td valign="top" width="700">
     <br />
 
-  <p>♥️ ♥️ ♥️&nbsp;"typing on a keyboard feels like moving a mountain with my heart"</p>
+  <p>♥️ ♥️ ♥️</p>
 <a href="https://taylorlaughl.in">portfolio</a>
 
   </td>
