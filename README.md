@@ -9,7 +9,7 @@
     <br />
 
   <p>🖤 🖤 🖤&nbsp;&nbsp;conjuring digitial magic with my heart</p>
-🔮&nbsp;same info but <a href="https://taylorlaughl.in" target="_blank">fancier</a>
+🔮&nbsp;more info about myself but <a href="https://taylorlaughl.in" target="_blank">fancy</a>
 <p>☕&nbsp;creator of <a href="https://cozypunk.io" target="_blank">cozyPunk</a></p>
 
   </td>
