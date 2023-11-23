@@ -8,8 +8,9 @@
   <td valign="top" width="700">
     <br />
 
-  <p>🖤 🖤 🖤</p>
-<a href="https://taylorlaughl.in">portfolio</a>
+  <p>🖤 🖤 🖤&nbsp;&nbsp;conjuring digitial magic with my heart</p>
+🔮&nbsp;same info but <a href="https://taylorlaughl.in">fancier</a>
+<p>☕&nbsp;creator of <a href="https://cozypunk.io">cozyPunk</a></p>
 
   </td>
   </tr>
