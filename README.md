@@ -1,9 +1,3 @@
-<p align="center">
-  <p>
-  <a href="https://taylorlaughl.in">this is my portfolio</a>
-  </p>
-</p>
-
 <img align="left" width="400px" src="https://64.media.tumblr.com/90d447fad5955852bb4b654211b90f0a/tumblr_n24o91zhK01s0t69oo1_500.gifv"></img>
 
 ```javascript
