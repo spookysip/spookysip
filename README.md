@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/taylor-laughlin"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a>
 </p>
 
-### resume.js
+<img align="left" src="https://64.media.tumblr.com/90d447fad5955852bb4b654211b90f0a/tumblr_n24o91zhK01s0t69oo1_500.gifv"></img>
 
 ```javascript
 const technologies = {
@@ -18,14 +18,19 @@ const technologies = {
             "REST"
         ],
         Database: [
-            "MySQL", "Planetscale", "Prisma", "NoSQL", "MongoDB", "Mongoose" 
+            "MySQL", "Planetscale", "Prisma", "NoSQL",
+            "MongoDB", "Mongoose" 
         ],
         Infrastructure: [
-            "Amplify", "Lambda", "RDS", "DynamoDB", "CloudFormation", "CloudPipeline", "CloudFront",
-            "CloudWatch", "CDK", "SDK", "S3", "API Gateway", "Route 53", "Secrets Manager", "IAM", "KMS", "Vercel"
+            "Amplify", "Lambda", "RDS", "DynamoDB",
+            "CloudFormation", "CloudPipeline",
+            "CloudFront", "CloudWatch", "CDK",
+            "SDK", "S3", "API Gateway", "Route 53",
+            "Secrets Manager", "IAM", "KMS", "Vercel"
         ],
         NPM: [
-            "Stripe", "Nodemailer", "Cumstomer IO", "Howler", "Forest Admin"
+            "Stripe", "Nodemailer", "Cumstomer IO",
+            "Howler", "Forest Admin"
         ], 
     }
 };
