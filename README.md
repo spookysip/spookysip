@@ -8,7 +8,7 @@
   <td valign="top" width="700">
     <br />
 
-  <p>🖤 🖤 🖤&nbsp;&nbsp;conjuring digitial magic with my heart</p>
+  <p>🖤 🖤 🖤&nbsp;&nbsp;conjuring digital magic with my heart</p>
 🔮&nbsp;more info about myself but <a href="https://taylorlaughl.in" target="_blank">fancy</a>
 <p>☕&nbsp;creator of <a href="https://cozypunk.io" target="_blank">cozyPunk</a></p>
 
