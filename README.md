@@ -10,6 +10,9 @@
 
   <p>🖤 🖤 🖤&nbsp;&nbsp;conjuring digital magic with my heart</p>
 
+  🔮 more info about me but <a href="https://taylorlaughl.in">fancy</a> </br>
+  ☕ creator of <a href="https://cozypunk.io">cozyPunk</a>
+
   </td>
   </tr>
 </table>
