@@ -8,8 +8,6 @@
   <td valign="top" width="700">
     <br />
 
-  <p>🖤&nbsp;&nbsp;wielding digital magic with my heart</p>
-
   🔮 more info about me but <a href="https://taylorlaughl.in">fancy</a> </br>
   ☕ a/k/a <a href="https://cozypunk.io">cozyPunk</a>
 
