@@ -1,3 +1,3 @@
 <table>
-   hej hej! 👋 I'm 🔮 <a href="https://mattlaughl.in">Matt</a>&nbsp;    aka 🍵 <a href="https://cozypunk.io">cozyPunk</a>.</br>
+   hej hej! 👋 I'm 🔮 <a href="https://mattlaughl.in">Matt</a>&nbsp;&nbsp;&nbsp;a/k/a 🍵 <a href="https://cozypunk.io">cozyPunk</a>.</br>
 </table>
