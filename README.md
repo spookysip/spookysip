@@ -1,3 +1,3 @@
 <table>
-  🔮 hi I'm Matt aka 🍵 <a href="https://cozypunk.io">cozyPunk</a>. You can find more fancy info about me 🥂 <a href="https://taylorlaughl.in">here</a></br>
+   hi I'm 🔮 <a href="https://taylorlaughl.in">Matt</a> aka 🍵 <a href="https://cozypunk.io">cozyPunk</a>.</br>
 </table>
